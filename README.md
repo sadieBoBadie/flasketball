@@ -13,14 +13,11 @@ As a developer, you WILL be working with unfamiliar codebases that someone else 
 
 ### Guiding Questions
 
-### Notes & Resources
-
-### Forms of Participation
-
 *   What are some strategies you've employed to debug an error or unexpected behavior?
     
     _**Also see Review Questions at the bottom of this module**_
     
+### Notes & Resources
 
 Student Instructions
 
@@ -37,6 +34,8 @@ Review Slides (Optional)
 Debug Files ([download](https://s3.us-east-1.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/1660277483__FlasketBallBroken.zip))
 
 ![](https://s3.us-east-1.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/1660243162__dashboard.png)
+
+### Forms of Participation
 
 *   Alone - Write down or answer opening questions in chat or DM
 *   Class discussion
