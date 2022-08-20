@@ -21,19 +21,13 @@ As a developer, you WILL be working with unfamiliar codebases that someone else 
 
 Student Instructions
 
-[download](https://s3.us-east-1.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/1660274049__Flasketball Student Instructions.docx) | [google doc](https://docs.google.com/document/d/1bMtnQ0UOudqo429GX0NNDpgYB0EUkKVJMV-cfvAJ5pk/edit) Please make COPY
+[google doc](https://docs.google.com/document/d/1bMtnQ0UOudqo429GX0NNDpgYB0EUkKVJMV-cfvAJ5pk/edit) Please make COPY
 
-![](https://s3.us-east-1.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/1660243112__student_instructions_thumbnail.png)
 
 Review Slides (Optional)
 
-[download](https://s3.us-east-1.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/1660274099__Flasketball Walk-through Slides.pptx) | [google doc](https://docs.google.com/presentation/d/1EMojckrp_yjO-mqaftin-QE8iRkThv_g3m4b2IhRTic/edit#slide=id.g1438a413c28_0_100) - Please make COPY
+[google doc](https://docs.google.com/presentation/d/1EMojckrp_yjO-mqaftin-QE8iRkThv_g3m4b2IhRTic/edit#slide=id.g1438a413c28_0_100) - Please make COPY
 
-![](https://s3.us-east-1.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/1660243127__error2_soln_img.png)
-
-Debug Files ([download](https://s3.us-east-1.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/1660277483__FlasketBallBroken.zip))
-
-![](https://s3.us-east-1.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/1660243162__dashboard.png)
 
 ### Forms of Participation
 
